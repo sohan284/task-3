@@ -1,0 +1,23 @@
+.image-text-color {
+    color: rgb(255, 255, 255);
+}
+
+.bg-button {
+    background-color: #ffeefc69;
+}
+
+.rounded-8 {
+    border-radius: 30px;
+}
+.bg-mail{
+    background-color: rgba(14, 13, 13, 0.521);
+}
+.toast-item{
+    margin-top: 50px;
+    margin-left: 320px;
+}
+.toast-item:hover{
+    border: 2px solid blue;
+}
+
+
